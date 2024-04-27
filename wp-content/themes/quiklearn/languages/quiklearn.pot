@@ -1,0 +1,2852 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quiklearn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-20 08:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: quiklearn"
+
+#: learnpress/custom/course-box-3.php:20
+msgid " l"
+msgstr ""
+
+#: learnpress/single-course/loop-section.php:91
+msgid " Lecture"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:20 learnpress/custom/course-box-4.php:20
+#: learnpress/custom/course-box.php:20
+msgid " Lesson"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:20 learnpress/custom/course-box-4.php:20
+#: learnpress/custom/course-box.php:20
+msgid " Lessons"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:20
+msgid " ls"
+msgstr ""
+
+#: learnpress/single-course/loop-section.php:88
+msgid " Quiz"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/variable-ticket-form-template.php:110
+msgid " Seats Available: "
+msgstr ""
+
+#: learnpress/addons/course-review/course-rate.php:19
+msgid " Star"
+msgstr ""
+
+#: learnpress/addons/course-review/course-rate.php:19
+msgid " Stars"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:70
+msgid " Student"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:70
+msgid " Students"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/variable-ticket-form-template.php:213
+msgid " to buy ticket!"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/variable-ticket-form-template.php:112
+msgid " Unlimited ticket"
+msgstr ""
+
+#: inc/views/comments-callback.php:18
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: woocommerce/rating.php:37
+#, php-format
+msgid "%s"
+msgid_plural "%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/general.php:459
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: learnpress/addons/course-review/rating-stars.php:18
+#, php-format
+msgid "%s out of 5 stars"
+msgstr ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: template-parts/content-single-2.php:100 template-parts/content-single.php:88
+msgid "-by "
+msgstr ""
+
+#: inc/customizer/settings/footer.php:101
+#: inc/customizer/settings/footer.php:125
+#: inc/customizer/settings/footer.php:148
+msgid "1 Column"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:302
+msgid "10,000+ UNIQUE COURSES"
+msgstr ""
+
+#: inc/customizer/settings/general.php:166
+msgid "1140px"
+msgstr ""
+
+#: inc/customizer/settings/general.php:165
+msgid "1200px"
+msgstr ""
+
+#: inc/customizer/settings/general.php:164
+msgid "1290px"
+msgstr ""
+
+#: inc/customizer/settings/general.php:163
+msgid "1414px"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:102
+#: inc/customizer/settings/footer.php:126
+#: inc/customizer/settings/footer.php:149
+msgid "2 Columns"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:103
+#: inc/customizer/settings/footer.php:127
+#: inc/customizer/settings/footer.php:150
+msgid "3 Columns"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:104
+#: inc/customizer/settings/footer.php:128
+#: inc/customizer/settings/footer.php:151
+msgid "4 Columns"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/event-ticket.php:50
+#: eventin/templates/event/purchase-form/single-event-variable-ticket.php:63
+msgid ""
+"[Note: This event will be held on zoom. Attendee will get zoom meeting URL "
+"through email]"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:73
+msgid "Active Breadcrumb Color"
+msgstr ""
+
+#: inc/customizer/controls/gallery-control.php:25
+#: inc/customizer/controls/repeater-control.php:27
+msgid "Add"
+msgstr ""
+
+#: template-parts/header/header-1.php:40 template-parts/header/header-4.php:40
+msgid "Add a menu"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:395
+#: learnpress/custom/inc/lp-functions.php:407
+msgid "Add this course to your wishlist"
+msgstr ""
+
+#: inc/customizer/settings/header.php:345
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/settings/general.php:303
+msgid "Address Label"
+msgstr ""
+
+#: inc/customizer/settings/general.php:318
+msgid "Address Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:43 inc/customizer/customizer.php:52
+#: inc/customizer/customizer.php:61 inc/customizer/customizer.php:70
+#: inc/customizer/customizer.php:79
+#: inc/customizer/typography/typography-customizer.php:39
+msgid "Adjust the overall layout for your site."
+msgstr ""
+
+#: template-parts/header/header-course-search.php:9
+msgid "All"
+msgstr ""
+
+#: template-parts/header/header-category-course.php:19
+#: template-parts/header/product-search-form.php:11
+msgid "All Categories"
+msgstr ""
+
+#: inc/customizer/settings/header.php:289
+msgid "All Category"
+msgstr ""
+
+#: inc/customizer/customizer.php:88
+msgid "All custom posts settings here."
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:284
+msgid "All Heading Typography (H1-H6)"
+msgstr ""
+
+#: template-parts/content-banner.php:19 template-parts/content-banner.php:31
+msgid "All Posts"
+msgstr ""
+
+#: template-parts/content-banner.php:29
+msgid "All Speaker"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/variable-ticket-form-template.php:115
+msgid "All tickets have been sold out"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/single-event-variable-ticket.php:17
+msgid "All Tickets Sold!!"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:282 inc/customizer/settings/error.php:158
+msgid "Animation Off"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:281 inc/customizer/settings/error.php:157
+msgid "Animation On"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:277 inc/customizer/settings/error.php:153
+msgid "Animation On/Off"
+msgstr ""
+
+#: inc/customizer/settings/event.php:35
+msgid "Archive Event Option"
+msgstr ""
+
+#. Name of the template
+msgid "Archive style 1"
+msgstr ""
+
+#. Name of the template
+msgid "Archive style 2"
+msgstr ""
+
+#: woocommerce/custom/functions.php:321
+msgid "Average"
+msgstr ""
+
+#: learnpress/addons/course-review/course-rate.php:12
+msgid "Average Rating"
+msgstr ""
+
+#: inc/customizer/settings/general.php:194
+msgid "Back to Top Arrow"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:191
+#: inc/customizer/settings/footer.php:257
+#: inc/customizer/settings/footer.php:324
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:207
+#: inc/customizer/settings/footer.php:274
+#: inc/customizer/settings/footer.php:341
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:167
+#: inc/customizer/settings/footer.php:234
+#: inc/customizer/settings/footer.php:301
+msgid "Background Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:213
+#: inc/customizer/settings/blog-layout.php:110
+#: inc/customizer/settings/blog-single-layout.php:110
+#: inc/customizer/settings/course-layout.php:97
+#: inc/customizer/settings/course-single-layout.php:65
+#: inc/customizer/settings/error-layout.php:66
+#: inc/customizer/settings/event-layout.php:109
+#: inc/customizer/settings/event-single-layout.php:66
+#: inc/customizer/settings/page-layout.php:110
+#: inc/customizer/settings/search-layout.php:110
+#: inc/customizer/settings/woo-product-layout.php:65
+#: inc/customizer/settings/woo-shop-layout.php:96
+msgid "Banner"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:187
+#: inc/customizer/settings/blog-single-layout.php:187
+#: inc/customizer/settings/course-layout.php:174
+#: inc/customizer/settings/course-single-layout.php:142
+#: inc/customizer/settings/error-layout.php:143
+#: inc/customizer/settings/event-layout.php:186
+#: inc/customizer/settings/event-single-layout.php:143
+#: inc/customizer/settings/page-layout.php:187
+#: inc/customizer/settings/search-layout.php:187
+#: inc/customizer/settings/woo-product-layout.php:142
+#: inc/customizer/settings/woo-shop-layout.php:173
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:159
+#: inc/customizer/settings/blog-single-layout.php:159
+#: inc/customizer/settings/course-layout.php:146
+#: inc/customizer/settings/course-single-layout.php:114
+#: inc/customizer/settings/error-layout.php:115
+#: inc/customizer/settings/event-layout.php:158
+#: inc/customizer/settings/event-single-layout.php:115
+#: inc/customizer/settings/page-layout.php:159
+#: inc/customizer/settings/search-layout.php:159
+#: inc/customizer/settings/woo-product-layout.php:114
+#: inc/customizer/settings/woo-shop-layout.php:145
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:103
+msgid "Banner Background Overlay opacity"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:139
+#: inc/customizer/settings/blog-single-layout.php:139
+#: inc/customizer/settings/course-layout.php:126
+#: inc/customizer/settings/course-single-layout.php:94
+#: inc/customizer/settings/error-layout.php:95
+#: inc/customizer/settings/event-layout.php:138
+#: inc/customizer/settings/event-single-layout.php:95
+#: inc/customizer/settings/page-layout.php:139
+#: inc/customizer/settings/search-layout.php:139
+#: inc/customizer/settings/woo-product-layout.php:94
+#: inc/customizer/settings/woo-shop-layout.php:125
+msgid "Banner Background Type"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:124
+#: inc/customizer/settings/banner.php:139
+msgid "Banner Padding Top"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:155
+#: inc/customizer/settings/banner.php:168
+msgid "Banner Shape"
+msgstr ""
+
+#: inc/helper-functions.php:318 inc/customizer/settings/general.php:492
+msgid "Behance"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:145
+#: inc/customizer/settings/blog-single-layout.php:145
+#: inc/customizer/settings/course-layout.php:132
+#: inc/customizer/settings/course-single-layout.php:100
+#: inc/customizer/settings/error-layout.php:101
+#: inc/customizer/settings/event-layout.php:144
+#: inc/customizer/settings/event-single-layout.php:101
+#: inc/customizer/settings/footer.php:172
+#: inc/customizer/settings/footer.php:239
+#: inc/customizer/settings/footer.php:306
+#: inc/customizer/settings/page-layout.php:145
+#: inc/customizer/settings/search-layout.php:145
+#: inc/customizer/settings/woo-product-layout.php:100
+#: inc/customizer/settings/woo-shop-layout.php:131
+msgid "BG Color"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:144
+#: inc/customizer/settings/blog-single-layout.php:144
+#: inc/customizer/settings/course-layout.php:131
+#: inc/customizer/settings/course-single-layout.php:99
+#: inc/customizer/settings/error-layout.php:100
+#: inc/customizer/settings/event-layout.php:143
+#: inc/customizer/settings/event-single-layout.php:100
+#: inc/customizer/settings/footer.php:173
+#: inc/customizer/settings/footer.php:240
+#: inc/customizer/settings/footer.php:307
+#: inc/customizer/settings/page-layout.php:144
+#: inc/customizer/settings/search-layout.php:144
+#: inc/customizer/settings/woo-product-layout.php:99
+#: inc/customizer/settings/woo-shop-layout.php:130
+msgid "BG Image"
+msgstr ""
+
+#: inc/customizer/settings/general.php:145
+msgid "Blend Mode"
+msgstr ""
+
+#: inc/customizer/customizer.php:229
+msgid "Blog Archive Layout"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:102 inc/customizer/settings/blog.php:118
+msgid "Blog Content Limit"
+msgstr ""
+
+#: template-parts/content-banner.php:39
+msgid "Blog Details"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:66
+msgid "Blog Pagination"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:41
+msgid "Blog Post layout variation you can selecr and use."
+msgstr ""
+
+#: inc/customizer/customizer.php:78 inc/customizer/customizer.php:320
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:40
+msgid "Blog/Archive Layout"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:55
+#: inc/customizer/typography/typography-customizer.php:98
+msgid "Body"
+msgstr ""
+
+#: inc/customizer/settings/color.php:86 inc/customizer/settings/error.php:36
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/customizer/settings/color.php:70
+msgid "Body Color"
+msgstr ""
+
+#: inc/customizer/settings/reading-progress-bar.php:111
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:301 inc/customizer/settings/error.php:177
+msgid "bounce"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:314 inc/customizer/settings/error.php:190
+msgid "bounceIn"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:315 inc/customizer/settings/error.php:191
+msgid "bounceInDown"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:316 inc/customizer/settings/error.php:192
+msgid "bounceInLeft"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:317 inc/customizer/settings/error.php:193
+msgid "bounceInRight"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:318 inc/customizer/settings/error.php:194
+msgid "bounceInUp"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:124
+#: inc/customizer/settings/blog-single-layout.php:124
+#: inc/customizer/settings/course-layout.php:111
+#: inc/customizer/settings/course-single-layout.php:79
+#: inc/customizer/settings/error-layout.php:80
+#: inc/customizer/settings/event-layout.php:123
+#: inc/customizer/settings/event-single-layout.php:80
+#: inc/customizer/settings/page-layout.php:124
+#: inc/customizer/settings/search-layout.php:124
+#: inc/customizer/settings/woo-product-layout.php:79
+#: inc/customizer/settings/woo-shop-layout.php:110
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:41
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:57
+msgid "Breadcrumb Link Hover Color"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:89
+msgid "Breadcrumb Seperator Color"
+msgstr ""
+
+#: inc/customizer/settings/header.php:432
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/settings/error.php:105 inc/customizer/settings/header.php:416
+msgid "Button Text"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/variable-ticket-form-template.php:207
+msgid "Buy ticket"
+msgstr ""
+
+#: inc/ajax-loadmore.php:97 template-parts/content-1.php:113
+#: template-parts/content-2.php:122 template-parts/content-search.php:25
+#: template-parts/content.php:113 inc/modules/rt-post-related.php:190
+msgid "by "
+msgstr ""
+
+#: inc/customizer/settings/woo-shop.php:67
+msgid "Cart view"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:301
+#: inc/customizer/settings/course.php:69
+msgid "Category"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:42
+msgid "Category: "
+msgid_plural "Categories: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/settings/banner.php:174
+#: inc/customizer/settings/blog-layout.php:165
+#: inc/customizer/settings/blog-layout.php:210
+#: inc/customizer/settings/blog-single-layout.php:165
+#: inc/customizer/settings/blog-single-layout.php:210
+#: inc/customizer/settings/course-layout.php:152
+#: inc/customizer/settings/course-layout.php:197
+#: inc/customizer/settings/course-single-layout.php:120
+#: inc/customizer/settings/course-single-layout.php:165
+#: inc/customizer/settings/error-layout.php:121
+#: inc/customizer/settings/error-layout.php:166
+#: inc/customizer/settings/error.php:56
+#: inc/customizer/settings/event-layout.php:164
+#: inc/customizer/settings/event-layout.php:209
+#: inc/customizer/settings/event-single-layout.php:121
+#: inc/customizer/settings/event-single-layout.php:166
+#: inc/customizer/settings/footer.php:213
+#: inc/customizer/settings/footer.php:280
+#: inc/customizer/settings/footer.php:347
+#: inc/customizer/settings/footer.php:566
+#: inc/customizer/settings/general.php:54
+#: inc/customizer/settings/general.php:79
+#: inc/customizer/settings/general.php:229
+#: inc/customizer/settings/page-layout.php:165
+#: inc/customizer/settings/page-layout.php:210
+#: inc/customizer/settings/search-layout.php:165
+#: inc/customizer/settings/search-layout.php:210
+#: inc/customizer/settings/woo-product-layout.php:120
+#: inc/customizer/settings/woo-product-layout.php:165
+#: inc/customizer/settings/woo-shop-layout.php:151
+#: inc/customizer/settings/woo-shop-layout.php:196
+msgid "Change File"
+msgstr ""
+
+#: woocommerce/custom/functions.php:469
+msgid "Checkout"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:179
+#: inc/customizer/settings/blog-layout.php:170
+#: inc/customizer/settings/blog-layout.php:215
+#: inc/customizer/settings/blog-single-layout.php:170
+#: inc/customizer/settings/blog-single-layout.php:215
+#: inc/customizer/settings/course-layout.php:157
+#: inc/customizer/settings/course-layout.php:202
+#: inc/customizer/settings/course-single-layout.php:125
+#: inc/customizer/settings/course-single-layout.php:170
+#: inc/customizer/settings/error-layout.php:126
+#: inc/customizer/settings/error-layout.php:171
+#: inc/customizer/settings/error.php:61
+#: inc/customizer/settings/event-layout.php:169
+#: inc/customizer/settings/event-layout.php:214
+#: inc/customizer/settings/event-single-layout.php:126
+#: inc/customizer/settings/event-single-layout.php:171
+#: inc/customizer/settings/footer.php:218
+#: inc/customizer/settings/footer.php:285
+#: inc/customizer/settings/footer.php:352
+#: inc/customizer/settings/footer.php:571
+#: inc/customizer/settings/general.php:59
+#: inc/customizer/settings/general.php:84
+#: inc/customizer/settings/general.php:234
+#: inc/customizer/settings/page-layout.php:170
+#: inc/customizer/settings/page-layout.php:215
+#: inc/customizer/settings/search-layout.php:170
+#: inc/customizer/settings/search-layout.php:215
+#: inc/customizer/settings/woo-product-layout.php:125
+#: inc/customizer/settings/woo-product-layout.php:170
+#: inc/customizer/settings/woo-shop-layout.php:156
+#: inc/customizer/settings/woo-shop-layout.php:201
+msgid "Choose File"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:196
+msgid "Color Dark"
+msgstr ""
+
+#: inc/customizer/customizer.php:178
+msgid "Color Main"
+msgstr ""
+
+#: inc/customizer/customizer.php:187
+msgid "Color Menu"
+msgstr ""
+
+#: comments.php:14 comments.php:16 single.php:18 inc/ajax-loadmore.php:49
+#: template-parts/content-1.php:16 template-parts/content-2.php:16
+#: template-parts/content-single-2.php:11 template-parts/content-single.php:11
+#: template-parts/content.php:16 inc/modules/rt-post-related.php:151
+msgid "Comment"
+msgstr ""
+
+#: comments.php:67
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:12 single.php:18 inc/ajax-loadmore.php:49
+#: template-parts/content-1.php:16 template-parts/content-2.php:16
+#: template-parts/content-single-2.php:11 template-parts/content-single.php:11
+#: template-parts/content.php:16 inc/modules/rt-post-related.php:151
+msgid "Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/customizer/settings/woo-product.php:65
+#: inc/customizer/settings/woo-shop.php:97
+msgid "Compare"
+msgstr ""
+
+#: inc/customizer/settings/general.php:159
+msgid "Container width( Bootstrap Grid )"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:95
+#: inc/customizer/settings/blog-single-layout.php:95
+#: inc/customizer/settings/course-layout.php:82
+#: inc/customizer/settings/course-single-layout.php:50
+#: inc/customizer/settings/error-layout.php:51
+#: inc/customizer/settings/event-layout.php:94
+#: inc/customizer/settings/event-single-layout.php:51
+#: inc/customizer/settings/page-layout.php:95
+#: inc/customizer/settings/search-layout.php:95
+#: inc/customizer/settings/woo-product-layout.php:50
+#: inc/customizer/settings/woo-shop-layout.php:81
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:80
+#: inc/customizer/settings/blog-single-layout.php:80
+#: inc/customizer/settings/course-layout.php:67
+#: inc/customizer/settings/course-single-layout.php:35
+#: inc/customizer/settings/error-layout.php:36
+#: inc/customizer/settings/event-layout.php:79
+#: inc/customizer/settings/event-single-layout.php:36
+#: inc/customizer/settings/page-layout.php:80
+#: inc/customizer/settings/search-layout.php:80
+#: inc/customizer/settings/woo-product-layout.php:35
+#: inc/customizer/settings/woo-shop-layout.php:66
+msgid "Content Padding Top"
+msgstr ""
+
+#: inc/ajax-loadmore.php:116 template-parts/content-1.php:127
+#: template-parts/content-2.php:136 template-parts/content.php:127
+#: inc/modules/rt-post-related.php:201
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:484
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:466
+msgid "Copyright Hover Color"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:450
+msgid "Copyright Link Color"
+msgstr ""
+
+#: inc/general.php:201
+msgid "Copyright Menu"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:515
+msgid "Copyright Menu Display"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:529
+msgid "Copyright Social Display"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:500
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:434
+msgid "Copyright Text Color"
+msgstr ""
+
+#: learnpress/custom/instructor-tab-contents.php:26
+msgid "Course"
+msgstr ""
+
+#: inc/customizer/customizer.php:265
+msgid "Course Archive Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:353
+msgid "Course Archive Setting"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:305
+msgid "Course Curriculum"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:304
+msgid "Course Description"
+msgstr ""
+
+#: template-parts/content-banner.php:33
+msgid "Course Details"
+msgstr ""
+
+#: learnpress/custom/course-progress.php:17
+msgid "Course Fee"
+msgstr ""
+
+#: inc/customizer/settings/course.php:35
+msgid "Course Layout"
+msgstr ""
+
+#: inc/customizer/settings/course.php:36
+msgid "Course layout variation you can select and use."
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:408
+msgid "Course Share"
+msgstr ""
+
+#: inc/customizer/customizer.php:361
+msgid "Course Single General"
+msgstr ""
+
+#: inc/customizer/customizer.php:274
+msgid "Course Single Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:369
+msgid "Course Single Option"
+msgstr ""
+
+#: inc/customizer/customizer.php:377
+msgid "Course Single Share Option"
+msgstr ""
+
+#: learnpress/custom/instructor-tab-contents.php:26
+msgid "Courses"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:49
+msgid "Curriculum Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:87
+msgid "Custom Posts"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:41
+msgid "d"
+msgstr ""
+
+#: inc/general.php:39
+msgid "dark gray"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:124
+#: learnpress/custom/inc/lp-functions.php:365
+msgid "Day"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:41 learnpress/custom/course-box-4.php:41
+#: learnpress/custom/course-box.php:41
+msgid "day"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:124
+#: learnpress/custom/inc/lp-functions.php:365
+msgid "Days"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:41 learnpress/custom/course-box-4.php:41
+#: learnpress/custom/course-box.php:41
+msgid "days"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:175
+#: inc/customizer/settings/blog-layout.php:166
+#: inc/customizer/settings/blog-layout.php:211
+#: inc/customizer/settings/blog-single-layout.php:166
+#: inc/customizer/settings/blog-single-layout.php:211
+#: inc/customizer/settings/course-layout.php:153
+#: inc/customizer/settings/course-layout.php:198
+#: inc/customizer/settings/course-single-layout.php:121
+#: inc/customizer/settings/course-single-layout.php:166
+#: inc/customizer/settings/error-layout.php:122
+#: inc/customizer/settings/error-layout.php:167
+#: inc/customizer/settings/error.php:57
+#: inc/customizer/settings/event-layout.php:165
+#: inc/customizer/settings/event-layout.php:210
+#: inc/customizer/settings/event-single-layout.php:122
+#: inc/customizer/settings/event-single-layout.php:167
+#: inc/customizer/settings/footer.php:214
+#: inc/customizer/settings/footer.php:281
+#: inc/customizer/settings/footer.php:348
+#: inc/customizer/settings/footer.php:567
+#: inc/customizer/settings/general.php:55
+#: inc/customizer/settings/general.php:80
+#: inc/customizer/settings/general.php:230
+#: inc/customizer/settings/page-layout.php:166
+#: inc/customizer/settings/page-layout.php:211
+#: inc/customizer/settings/search-layout.php:166
+#: inc/customizer/settings/search-layout.php:211
+#: inc/customizer/settings/woo-product-layout.php:121
+#: inc/customizer/settings/woo-product-layout.php:166
+#: inc/customizer/settings/woo-shop-layout.php:152
+#: inc/customizer/settings/woo-shop-layout.php:197
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/settings/general.php:116
+msgid "Default logo size 110x35px ( Input logo size only number widthout px )"
+msgstr ""
+
+#: inc/customizer/settings/general.php:100
+msgid "Default logo size 162x52px ( Input logo size only number widthout px )"
+msgstr ""
+
+#: inc/customizer/settings/single.php:353
+msgid "Display post Order"
+msgstr ""
+
+#: inc/customizer/settings/general.php:180
+msgid "Display Preview Image on Blog"
+msgstr ""
+
+#: inc/helper-functions.php:323 inc/customizer/settings/general.php:507
+msgid "Dribbble"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:41
+msgid "ds"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:198
+#: inc/customizer/settings/course.php:129
+msgid "Duration"
+msgstr ""
+
+#: inc/customizer/settings/woo-shop.php:51
+msgid "Effect only for Shop custom page template "
+msgstr ""
+
+#: comments.php:60 inc/customizer/settings/course-single.php:519
+#: inc/customizer/settings/general.php:348
+#: inc/customizer/settings/header.php:373
+msgid "Email"
+msgstr ""
+
+#: woocommerce/custom/functions.php:310
+msgid "Email *"
+msgstr ""
+
+#: inc/customizer/settings/general.php:333
+msgid "Email Label"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:296 inc/customizer/settings/error.php:172
+msgid "Entrance Animation"
+msgstr ""
+
+#: inc/customizer/settings/error.php:76
+msgid "Error Heading"
+msgstr ""
+
+#: inc/customizer/settings/error.php:122
+msgid "Error Heading Color"
+msgstr ""
+
+#: inc/customizer/settings/error.php:50
+msgid "Error Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:310
+msgid "Error Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:386
+msgid "Error Page"
+msgstr ""
+
+#: inc/customizer/settings/error.php:90
+msgid "Error Text"
+msgstr ""
+
+#: inc/customizer/settings/error.php:138
+msgid "Error Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:247
+msgid "Event Archive Layout"
+msgstr ""
+
+#: template-parts/content-banner.php:35
+msgid "Event Details"
+msgstr ""
+
+#: inc/customizer/settings/event.php:132
+msgid "Event Excerpt Limit"
+msgstr ""
+
+#: inc/customizer/customizer.php:345
+msgid "Event Setting"
+msgstr ""
+
+#: inc/customizer/customizer.php:256
+msgid "Event Single Layout"
+msgstr ""
+
+#: inc/customizer/settings/course.php:233
+msgid "Excerpt Limit"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:307
+#: inc/customizer/settings/course-single.php:79
+msgid "Extra Information"
+msgstr ""
+
+#: inc/helper-functions.php:303 inc/customizer/settings/course-single.php:423
+#: inc/customizer/settings/general.php:447
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:309 inc/customizer/settings/error.php:185
+msgid "fadeIn"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:310 inc/customizer/settings/error.php:186
+msgid "fadeInDown"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:311 inc/customizer/settings/error.php:187
+msgid "fadeInLeft"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:312 inc/customizer/settings/error.php:188
+msgid "fadeInRight"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:313 inc/customizer/settings/error.php:189
+msgid "fadeInUp"
+msgstr ""
+
+#: inc/customizer/settings/course.php:204
+#: learnpress/custom/inc/lp-functions.php:477
+msgid "Feature"
+msgstr ""
+
+#: template-parts/header/header-course-search.php:42
+msgid "Find Your Courses . . ."
+msgstr ""
+
+#: inc/customizer/settings/blog.php:302 inc/customizer/settings/error.php:178
+msgid "flash"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:116
+#: inc/customizer/typography/typography-customizer.php:176
+#: inc/customizer/typography/typography-customizer.php:332
+#: inc/customizer/typography/typography-customizer.php:397
+#: inc/customizer/typography/typography-customizer.php:462
+#: inc/customizer/typography/typography-customizer.php:527
+#: inc/customizer/typography/typography-customizer.php:592
+#: inc/customizer/typography/typography-customizer.php:657
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:117
+#: inc/customizer/typography/typography-customizer.php:177
+#: inc/customizer/typography/typography-customizer.php:244
+#: inc/customizer/typography/typography-customizer.php:333
+#: inc/customizer/typography/typography-customizer.php:398
+#: inc/customizer/typography/typography-customizer.php:463
+#: inc/customizer/typography/typography-customizer.php:528
+#: inc/customizer/typography/typography-customizer.php:593
+#: inc/customizer/typography/typography-customizer.php:658
+msgid "Font Size (px)"
+msgstr ""
+
+#: inc/customizer/customizer.php:170
+msgid "Footer"
+msgstr ""
+
+#: inc/general.php:123
+msgid "Footer (Style 1) 1"
+msgstr ""
+
+#: inc/general.php:124
+msgid "Footer (Style 1) 2"
+msgstr ""
+
+#: inc/general.php:125
+msgid "Footer (Style 1) 3"
+msgstr ""
+
+#: inc/general.php:126
+msgid "Footer (Style 1) 4"
+msgstr ""
+
+#: inc/general.php:130
+msgid "Footer (Style 2) 1"
+msgstr ""
+
+#: inc/general.php:131
+msgid "Footer (Style 2) 2"
+msgstr ""
+
+#: inc/general.php:132
+msgid "Footer (Style 2) 3"
+msgstr ""
+
+#: inc/general.php:133
+msgid "Footer (Style 2) 4"
+msgstr ""
+
+#: inc/general.php:137
+msgid "Footer (Style 3) 1"
+msgstr ""
+
+#: inc/general.php:138
+msgid "Footer (Style 3) 2"
+msgstr ""
+
+#: inc/general.php:139
+msgid "Footer (Style 3) 3"
+msgstr ""
+
+#: inc/general.php:140
+msgid "Footer (Style 3) 4"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:51
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:67
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:402
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:418
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:560
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:544
+msgid "Footer Logo Display"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:386
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:370
+msgid "Footer Title Color"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:38
+msgid "Footer Top"
+msgstr ""
+
+#: eventin/templates/event/related-events-free.php:84
+#: eventin/templates/event/archive/location-content.php:31
+msgid "Free"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:48
+#: inc/customizer/settings/blog-single-layout.php:48
+#: inc/customizer/settings/course-layout.php:47
+#: inc/customizer/settings/event-layout.php:47
+#: inc/customizer/settings/page-layout.php:48
+#: inc/customizer/settings/search-layout.php:48
+#: inc/customizer/settings/woo-shop-layout.php:46
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:42
+msgid "General"
+msgstr ""
+
+#: inc/helper-functions.php:348
+msgid "Github"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:432
+msgid "Go Back To Home Page"
+msgstr ""
+
+#: woocommerce/custom/functions.php:320
+msgid "Good"
+msgstr ""
+
+#: inc/helper-functions.php:116
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/general.php:56
+msgid "Gradient Color"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:38
+#: learnpress/custom/inc/lp-functions.php:370
+#: learnpress/custom/inc/lp-functions.php:377
+msgid "h"
+msgstr ""
+
+#: inc/customizer/customizer.php:51
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/settings/header.php:212
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:315
+msgid "Header h1 "
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:380
+msgid "Header h2 "
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:445
+msgid "Header h3 "
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:510
+msgid "Header h4 "
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:575
+msgid "Header h5 "
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:640
+msgid "Header h6 "
+msgstr ""
+
+#: inc/customizer/settings/header.php:227
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/settings/header.php:449
+msgid "Header Login"
+msgstr ""
+
+#: inc/customizer/customizer.php:153
+msgid "Header Main"
+msgstr ""
+
+#: inc/customizer/customizer.php:161
+msgid "Header Mobile"
+msgstr ""
+
+#: inc/customizer/settings/header.php:168
+msgid "Header On/Off"
+msgstr ""
+
+#: inc/general.php:100
+msgid "Header Right"
+msgstr ""
+
+#: inc/customizer/settings/header.php:495
+msgid "Header Sign Up"
+msgstr ""
+
+#: inc/customizer/customizer.php:145
+msgid "Header Top"
+msgstr ""
+
+#: inc/customizer/settings/header.php:155
+msgid "Header Variation"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:73
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:307 inc/customizer/settings/error.php:183
+msgid "headShake"
+msgstr ""
+
+#: inc/customizer/settings/reading-progress-bar.php:89
+msgid "Height of the Progress Bar"
+msgstr ""
+
+#: inc/modules/rt-breadcrumbs.php:21
+msgid "Home"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:121
+msgid "Hour"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:38 learnpress/custom/course-box-4.php:38
+#: learnpress/custom/course-box.php:38
+msgid "hour"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:121
+msgid "Hours"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:38 learnpress/custom/course-box-4.php:38
+#: learnpress/custom/course-box.php:38
+msgid "hours"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:38
+msgid "hs"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://radiustheme.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://radiustheme.com/demo/wordpress/themes/quiklearn"
+msgstr ""
+
+#: inc/general.php:78
+msgid "Huge"
+msgstr ""
+
+#: inc/customizer/settings/general.php:140
+msgid "Image Blend"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:272
+#, php-format
+msgid "Image size should be %sx%s px"
+msgstr ""
+
+#: woocommerce/custom/functions.php:303
+msgid "In Stock"
+msgstr ""
+
+#: inc/helper-functions.php:343 inc/customizer/settings/general.php:552
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:142
+#: inc/customizer/settings/course.php:159
+#: learnpress/custom/inc/lp-functions.php:173
+msgid "Instructor"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:64
+msgid "Instructors Title"
+msgstr ""
+
+#: template-parts/archive-event.php:31 eventin/templates/archive-event.php:32
+msgid "It looks like nothing was found here. Maybe try a search?"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/header/product-search-form.php:6
+msgid "Keyword here..."
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:331
+msgid "Language"
+msgstr ""
+
+#: inc/general.php:73
+msgid "Large"
+msgstr ""
+
+#: inc/customizer/settings/single.php:358
+msgid "Last Modified Posts"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:46 inc/customizer/settings/course.php:41
+#: inc/customizer/settings/footer.php:73 inc/customizer/settings/header.php:59
+#: inc/customizer/settings/header.php:233 inc/customizer/settings/single.php:48
+msgid "Layout 1"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:50 inc/customizer/settings/course.php:45
+#: inc/customizer/settings/footer.php:77 inc/customizer/settings/header.php:63
+#: inc/customizer/settings/header.php:237 inc/customizer/settings/single.php:52
+msgid "Layout 2"
+msgstr ""
+
+#: inc/customizer/settings/course.php:49 inc/customizer/settings/footer.php:81
+#: inc/customizer/settings/header.php:67 inc/customizer/settings/header.php:241
+msgid "Layout 3"
+msgstr ""
+
+#: inc/customizer/settings/course.php:53 inc/customizer/settings/header.php:71
+#: inc/customizer/settings/header.php:245
+msgid "Layout 4"
+msgstr ""
+
+#: inc/customizer/customizer.php:69
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:156
+msgid "Lecture"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:44
+#: inc/customizer/settings/blog-single-layout.php:44
+#: inc/customizer/settings/course-layout.php:43
+#: inc/customizer/settings/event-layout.php:43
+#: inc/customizer/settings/page-layout.php:44
+#: inc/customizer/settings/search-layout.php:44
+#: inc/customizer/settings/woo-shop-layout.php:42
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/settings/course.php:99
+msgid "Lesson"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:212
+#: inc/customizer/settings/course.php:114
+msgid "Level"
+msgstr ""
+
+#: inc/general.php:44
+msgid "light gray"
+msgstr ""
+
+#: inc/customizer/settings/general.php:73
+msgid "Light Logo"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:135
+#: inc/customizer/typography/typography-customizer.php:195
+#: inc/customizer/typography/typography-customizer.php:350
+#: inc/customizer/typography/typography-customizer.php:415
+#: inc/customizer/typography/typography-customizer.php:480
+#: inc/customizer/typography/typography-customizer.php:545
+#: inc/customizer/typography/typography-customizer.php:610
+#: inc/customizer/typography/typography-customizer.php:675
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:136
+#: inc/customizer/typography/typography-customizer.php:196
+#: inc/customizer/typography/typography-customizer.php:263
+#: inc/customizer/typography/typography-customizer.php:351
+#: inc/customizer/typography/typography-customizer.php:416
+#: inc/customizer/typography/typography-customizer.php:481
+#: inc/customizer/typography/typography-customizer.php:546
+#: inc/customizer/typography/typography-customizer.php:611
+#: inc/customizer/typography/typography-customizer.php:676
+msgid "Line Height (px)"
+msgstr ""
+
+#: inc/helper-functions.php:313 inc/customizer/settings/course-single.php:471
+#: inc/customizer/settings/general.php:477
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/settings/course.php:219
+msgid "List Layout Excerpt"
+msgstr ""
+
+#: archive.php:74 index.php:68 page-template/template-archive-1.php:57
+#: inc/customizer/settings/blog.php:71
+#: learnpress/addons/course-review/course-review.php:21
+msgid "Load More"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:86
+msgid "Load More Limit"
+msgstr ""
+
+#: woocommerce/custom/functions.php:448
+msgid "Loader.."
+msgstr ""
+
+#: learnpress/addons/course-review/course-review.php:17
+msgid "Loading..."
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:101
+#: eventin/templates/event/purchase-form/variable-ticket-form-template.php:213
+msgid "Login"
+msgstr ""
+
+#: inc/customizer/settings/header.php:479
+msgid "Login Link"
+msgstr ""
+
+#: inc/customizer/settings/header.php:463
+msgid "Login Text"
+msgstr ""
+
+#: inc/customizer/settings/general.php:98
+msgid "Logo Width"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:35
+#: learnpress/custom/inc/lp-functions.php:380
+msgid "m"
+msgstr ""
+
+#: inc/customizer/settings/general.php:48
+msgid "Main Logo"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:64
+#: inc/customizer/typography/typography-customizer.php:158
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/settings/color.php:103
+msgid "Menu Color"
+msgstr ""
+
+#: inc/customizer/settings/color.php:119
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/customizer/settings/woo-product.php:35
+msgid "Meta"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:118
+msgid "Minute"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:35 learnpress/custom/course-box-4.php:35
+#: learnpress/custom/course-box.php:35
+msgid "minute"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:118
+msgid "Minutes"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:35 learnpress/custom/course-box-4.php:35
+#: learnpress/custom/course-box.php:35
+msgid "minutes"
+msgstr ""
+
+#: inc/customizer/settings/header.php:581
+msgid "Mobile Address"
+msgstr ""
+
+#: inc/customizer/settings/header.php:567
+msgid "Mobile Date"
+msgstr ""
+
+#: inc/customizer/settings/header.php:623
+msgid "Mobile Email"
+msgstr ""
+
+#: inc/customizer/settings/header.php:540
+msgid "Mobile Header Option"
+msgstr ""
+
+#: inc/customizer/settings/general.php:114
+msgid "Mobile Logo Width"
+msgstr ""
+
+#: inc/customizer/settings/header.php:595
+msgid "Mobile Opening"
+msgstr ""
+
+#: inc/customizer/settings/header.php:609
+msgid "Mobile Phone"
+msgstr ""
+
+#: inc/customizer/settings/header.php:651
+msgid "Mobile Search"
+msgstr ""
+
+#: inc/customizer/settings/header.php:637
+msgid "Mobile Social"
+msgstr ""
+
+#: inc/customizer/settings/header.php:553
+msgid "Mobile Topbar"
+msgstr ""
+
+#: inc/customizer/settings/single.php:240
+msgid "Modern"
+msgstr ""
+
+#: inc/customizer/settings/single.php:359
+msgid "Most Commented posts"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:476
+msgid "Most Popular"
+msgstr ""
+
+#: inc/customizer/settings/single.php:360
+msgid "Most Viewed posts"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:35
+msgid "ms"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:97
+msgid "My Profile"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "N/A"
+msgstr ""
+
+#: comments.php:57
+msgid "Name"
+msgstr ""
+
+#: woocommerce/custom/functions.php:309
+msgid "Name *"
+msgstr ""
+
+#: inc/general.php:443
+msgid "New"
+msgstr ""
+
+#: comments.php:40
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/general.php:640
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/archive-event.php:60 eventin/templates/archive-event.php:61
+msgid "No Event found!"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:177
+#: inc/customizer/settings/blog-layout.php:168
+#: inc/customizer/settings/blog-layout.php:213
+#: inc/customizer/settings/blog-single-layout.php:168
+#: inc/customizer/settings/blog-single-layout.php:213
+#: inc/customizer/settings/course-layout.php:155
+#: inc/customizer/settings/course-layout.php:200
+#: inc/customizer/settings/course-single-layout.php:123
+#: inc/customizer/settings/course-single-layout.php:168
+#: inc/customizer/settings/error-layout.php:124
+#: inc/customizer/settings/error-layout.php:169
+#: inc/customizer/settings/error.php:59
+#: inc/customizer/settings/event-layout.php:167
+#: inc/customizer/settings/event-layout.php:212
+#: inc/customizer/settings/event-single-layout.php:124
+#: inc/customizer/settings/event-single-layout.php:169
+#: inc/customizer/settings/footer.php:216
+#: inc/customizer/settings/footer.php:283
+#: inc/customizer/settings/footer.php:350
+#: inc/customizer/settings/footer.php:569
+#: inc/customizer/settings/general.php:57
+#: inc/customizer/settings/general.php:82
+#: inc/customizer/settings/general.php:232
+#: inc/customizer/settings/page-layout.php:168
+#: inc/customizer/settings/page-layout.php:213
+#: inc/customizer/settings/search-layout.php:168
+#: inc/customizer/settings/search-layout.php:213
+#: inc/customizer/settings/woo-product-layout.php:123
+#: inc/customizer/settings/woo-product-layout.php:168
+#: inc/customizer/settings/woo-shop-layout.php:154
+#: inc/customizer/settings/woo-shop-layout.php:199
+msgid "No file selected"
+msgstr ""
+
+#: learnpress/single-course/loop-section.php:75
+msgid "No items in this section"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/event-ticket.php:41
+msgid "No Tickets Available!!"
+msgstr ""
+
+#: inc/customizer/settings/single.php:241
+msgid "None"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:300 inc/customizer/settings/error.php:176
+msgid "none"
+msgstr ""
+
+#: inc/general.php:68
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/settings/general.php:144
+msgid "Normal Mode"
+msgstr ""
+
+#: learnpress/addons/course-review/course-rate.php:37
+msgid "Not enough ratings to display"
+msgstr ""
+
+#: woocommerce/custom/functions.php:322
+msgid "Not that bad"
+msgstr ""
+
+#: template-parts/content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/archive-event.php:30 eventin/templates/archive-event.php:31
+msgid "Nothing found!"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:97 inc/customizer/settings/footer.php:121
+#: inc/customizer/settings/footer.php:144
+msgid "Number of Columns for Footer"
+msgstr ""
+
+#: inc/customizer/settings/woo-shop.php:50
+msgid "Number of items per page"
+msgstr ""
+
+#: inc/general.php:192
+msgid "Offcanvas Info"
+msgstr ""
+
+#: inc/customizer/settings/general.php:273
+msgid "Offcanvus Label"
+msgstr ""
+
+#: inc/customizer/settings/general.php:288
+msgid "Offcanvus Text"
+msgstr ""
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:430
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#: inc/customizer/settings/header.php:387
+msgid "Opening"
+msgstr ""
+
+#: inc/customizer/settings/general.php:393
+msgid "Opening Label"
+msgstr ""
+
+#: inc/customizer/settings/general.php:408
+msgid "Opening Text"
+msgstr ""
+
+#: template-parts/content-banner.php:25
+msgid "Our Courses"
+msgstr ""
+
+#: template-parts/content-banner.php:27
+msgid "Our Events"
+msgstr ""
+
+#: template-parts/content-banner.php:23
+msgid "Our Teams"
+msgstr ""
+
+#: woocommerce/custom/functions.php:303
+msgid "Out of Stock"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:162
+msgid "Overview"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:34
+msgid "Overview Title"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:231
+#: inc/customizer/settings/blog-single-layout.php:231
+#: inc/customizer/settings/course-layout.php:218
+#: inc/customizer/settings/course-single-layout.php:186
+#: inc/customizer/settings/error-layout.php:187
+#: inc/customizer/settings/event-layout.php:230
+#: inc/customizer/settings/event-single-layout.php:187
+#: inc/customizer/settings/page-layout.php:231
+#: inc/customizer/settings/search-layout.php:231
+#: inc/customizer/settings/woo-product-layout.php:186
+#: inc/customizer/settings/woo-shop-layout.php:217
+msgid "Page / Post Background Color"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:204
+#: inc/customizer/settings/blog-single-layout.php:204
+#: inc/customizer/settings/course-layout.php:191
+#: inc/customizer/settings/course-single-layout.php:159
+#: inc/customizer/settings/error-layout.php:160
+#: inc/customizer/settings/event-layout.php:203
+#: inc/customizer/settings/event-single-layout.php:160
+#: inc/customizer/settings/page-layout.php:204
+#: inc/customizer/settings/search-layout.php:204
+#: inc/customizer/settings/woo-product-layout.php:159
+#: inc/customizer/settings/woo-shop-layout.php:190
+msgid "Page / Post Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:221
+msgid "Pages Layout"
+msgstr ""
+
+#: template-parts/content-page.php:18 template-parts/content-single-2.php:125
+#: template-parts/content-single.php:113
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:70
+msgid "Pagination"
+msgstr ""
+
+#: woocommerce/custom/functions.php:319
+msgid "Perfect"
+msgstr ""
+
+#: inc/customizer/settings/header.php:359
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/settings/general.php:363
+msgid "Phone Label"
+msgstr ""
+
+#: inc/customizer/settings/general.php:378
+msgid "Phone No"
+msgstr ""
+
+#: inc/helper-functions.php:338 inc/customizer/settings/course-single.php:487
+#: inc/customizer/settings/general.php:537
+msgid "Pinterest"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/variable-ticket-form-template.php:213
+msgid "Please"
+msgstr ""
+
+#. Name of the template
+msgid "Post Layout 1"
+msgstr ""
+
+#. Name of the template
+msgid "Post Layout 2"
+msgstr ""
+
+#: inc/customizer/settings/single.php:222
+msgid "Post Published"
+msgstr ""
+
+#: inc/customizer/settings/single.php:330
+msgid "Post Query"
+msgstr ""
+
+#: inc/customizer/settings/single.php:208
+msgid "Post Reading Length"
+msgstr ""
+
+#: inc/customizer/customizer.php:328
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:336
+msgid "Post Share"
+msgstr ""
+
+#: inc/customizer/customizer.php:238
+msgid "Post Single Layout"
+msgstr ""
+
+#: inc/customizer/settings/single.php:43
+msgid "Post single layout variation you can selecr and use."
+msgstr ""
+
+#: inc/customizer/settings/single.php:335
+msgid "Posts by the same Author"
+msgstr ""
+
+#: inc/customizer/settings/single.php:333
+msgid "Posts in the same Categories"
+msgstr ""
+
+#: inc/customizer/settings/single.php:334
+msgid "Posts in the same Tags"
+msgstr ""
+
+#: inc/customizer/settings/general.php:208
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/settings/general.php:248
+msgid "Preloader Background color"
+msgstr ""
+
+#: inc/customizer/settings/general.php:222
+msgid "Preloader Image"
+msgstr ""
+
+#: learnpress/single-course/loop-section.php:141
+msgid "Preview"
+msgstr ""
+
+#: inc/general.php:631
+msgid "Previous Post"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:346
+#: inc/customizer/settings/course.php:189
+msgid "Price"
+msgstr ""
+
+#: inc/general.php:99
+msgid "Primary"
+msgstr ""
+
+#: inc/general.php:29 inc/customizer/settings/color.php:38
+msgid "Primary Color"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:50
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/customizer/customizer.php:292
+msgid "Product Single Layout"
+msgstr ""
+
+#: inc/customizer/settings/woo-shop.php:34
+msgid "Products Per Column"
+msgstr ""
+
+#: inc/customizer/settings/header.php:402
+msgid "Profile Button"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:376
+msgid "Progress"
+msgstr ""
+
+#: inc/customizer/customizer.php:205
+msgid "Progress Bar"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:303 inc/customizer/settings/error.php:179
+msgid "pulse"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+#: woocommerce/global/quantity-input.php:33
+msgid "Quantity"
+msgstr ""
+
+#: inc/customizer/settings/single.php:328
+msgid "Query Type"
+msgstr ""
+
+#: inc/customizer/settings/woo-shop.php:82
+msgid "Quick view"
+msgstr ""
+
+#. Name of the theme
+msgid "Quiklearn"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Quiklearn is a clean and modern theme for all kinds of Education and "
+"Learning Institute."
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:170
+msgid "Quizzes"
+msgstr ""
+
+#. Author of the theme
+msgid "RadiusTheme"
+msgstr ""
+
+#: inc/customizer/settings/single.php:357
+msgid "Random Posts"
+msgstr ""
+
+#: woocommerce/custom/functions.php:318
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:361
+#: inc/customizer/settings/course.php:174
+#: inc/customizer/settings/woo-shop.php:142
+msgid "Rating"
+msgstr ""
+
+#: inc/customizer/settings/reading-progress-bar.php:40
+msgid "Reading Progress Bar"
+msgstr ""
+
+#: inc/customizer/settings/reading-progress-bar.php:57
+#: inc/customizer/settings/reading-progress-bar.php:73
+msgid "Reading Progress Bar Color"
+msgstr ""
+
+#: inc/customizer/settings/reading-progress-bar.php:106
+msgid "Reading Progress Bar Position"
+msgstr ""
+
+#: template-parts/content-none.php:13
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>"
+msgstr ""
+
+#: inc/customizer/settings/single.php:356
+msgid "Recent Posts"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/single-event-variable-ticket.php:21
+#: eventin/templates/event/purchase-form/single-event-variable-ticket.php:25
+msgid "Registration Deadline Expired!!"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/event-ticket.php:16
+msgid "Registration Form"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:475
+msgid "Regular"
+msgstr ""
+
+#: inc/customizer/settings/single.php:252
+msgid "Related Post Settings"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:95
+#: inc/customizer/settings/woo-product.php:80
+#: inc/customizer/settings/woo-product.php:94
+msgid "Related Product"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:423
+msgid "Related Products"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:109
+msgid "Related Sub Title"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:125
+#: inc/customizer/settings/single.php:279
+msgid "Related Title"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:176
+#: inc/customizer/settings/blog-layout.php:167
+#: inc/customizer/settings/blog-layout.php:212
+#: inc/customizer/settings/blog-single-layout.php:167
+#: inc/customizer/settings/blog-single-layout.php:212
+#: inc/customizer/settings/course-layout.php:154
+#: inc/customizer/settings/course-layout.php:199
+#: inc/customizer/settings/course-single-layout.php:122
+#: inc/customizer/settings/course-single-layout.php:167
+#: inc/customizer/settings/error-layout.php:123
+#: inc/customizer/settings/error-layout.php:168
+#: inc/customizer/settings/error.php:58
+#: inc/customizer/settings/event-layout.php:166
+#: inc/customizer/settings/event-layout.php:211
+#: inc/customizer/settings/event-single-layout.php:123
+#: inc/customizer/settings/event-single-layout.php:168
+#: inc/customizer/settings/footer.php:215
+#: inc/customizer/settings/footer.php:282
+#: inc/customizer/settings/footer.php:349
+#: inc/customizer/settings/footer.php:568
+#: inc/customizer/settings/general.php:56
+#: inc/customizer/settings/general.php:81
+#: inc/customizer/settings/general.php:231
+#: inc/customizer/settings/page-layout.php:167
+#: inc/customizer/settings/page-layout.php:212
+#: inc/customizer/settings/search-layout.php:167
+#: inc/customizer/settings/search-layout.php:212
+#: inc/customizer/settings/woo-product-layout.php:122
+#: inc/customizer/settings/woo-product-layout.php:167
+#: inc/customizer/settings/woo-shop-layout.php:153
+#: inc/customizer/settings/woo-shop-layout.php:198
+msgid "Remove"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:407
+msgid "Remove this course from your wishlist"
+msgstr ""
+
+#: woocommerce/custom/functions.php:437
+msgid "Remove this item"
+msgstr ""
+
+#: comments.php:29
+msgid "Reply"
+msgstr ""
+
+#: learnpress/addons/course-review/course-review.php:11
+msgid "Reviews"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:52
+#: inc/customizer/settings/blog-single-layout.php:52
+#: inc/customizer/settings/course-layout.php:51
+#: inc/customizer/settings/event-layout.php:51
+#: inc/customizer/settings/page-layout.php:52
+#: inc/customizer/settings/search-layout.php:52
+#: inc/customizer/settings/woo-shop-layout.php:50
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/settings/general.php:582
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:304 inc/customizer/settings/error.php:180
+msgid "rubberBand"
+msgstr ""
+
+#: inc/customizer/settings/woo-shop.php:127
+msgid "Sale Flash"
+msgstr ""
+
+#: template-parts/header/header-course-search.php:44
+#: template-parts/header/icon-search.php:10
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/settings/search-layout.php:247
+msgid "Search Excerpt Length"
+msgstr ""
+
+#: inc/customizer/settings/header.php:275
+msgid "Search Filter"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search here ..."
+msgstr ""
+
+#: inc/customizer/settings/header.php:261
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:301
+msgid "Search Layout"
+msgstr ""
+
+#: template-parts/content-banner.php:12
+msgid "Search Results for : "
+msgstr ""
+
+#: inc/general.php:34 inc/customizer/settings/color.php:54
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/settings/banner.php:173
+#: inc/customizer/settings/banner.php:178
+#: inc/customizer/settings/blog-layout.php:164
+#: inc/customizer/settings/blog-layout.php:169
+#: inc/customizer/settings/blog-layout.php:209
+#: inc/customizer/settings/blog-layout.php:214
+#: inc/customizer/settings/blog-single-layout.php:164
+#: inc/customizer/settings/blog-single-layout.php:169
+#: inc/customizer/settings/blog-single-layout.php:209
+#: inc/customizer/settings/blog-single-layout.php:214
+#: inc/customizer/settings/course-layout.php:151
+#: inc/customizer/settings/course-layout.php:156
+#: inc/customizer/settings/course-layout.php:196
+#: inc/customizer/settings/course-layout.php:201
+#: inc/customizer/settings/course-single-layout.php:119
+#: inc/customizer/settings/course-single-layout.php:124
+#: inc/customizer/settings/course-single-layout.php:164
+#: inc/customizer/settings/course-single-layout.php:169
+#: inc/customizer/settings/error-layout.php:120
+#: inc/customizer/settings/error-layout.php:125
+#: inc/customizer/settings/error-layout.php:165
+#: inc/customizer/settings/error-layout.php:170
+#: inc/customizer/settings/error.php:55 inc/customizer/settings/error.php:60
+#: inc/customizer/settings/event-layout.php:163
+#: inc/customizer/settings/event-layout.php:168
+#: inc/customizer/settings/event-layout.php:208
+#: inc/customizer/settings/event-layout.php:213
+#: inc/customizer/settings/event-single-layout.php:120
+#: inc/customizer/settings/event-single-layout.php:125
+#: inc/customizer/settings/event-single-layout.php:165
+#: inc/customizer/settings/event-single-layout.php:170
+#: inc/customizer/settings/footer.php:212
+#: inc/customizer/settings/footer.php:217
+#: inc/customizer/settings/footer.php:279
+#: inc/customizer/settings/footer.php:284
+#: inc/customizer/settings/footer.php:346
+#: inc/customizer/settings/footer.php:351
+#: inc/customizer/settings/footer.php:565
+#: inc/customizer/settings/footer.php:570
+#: inc/customizer/settings/general.php:53
+#: inc/customizer/settings/general.php:58
+#: inc/customizer/settings/general.php:78
+#: inc/customizer/settings/general.php:83
+#: inc/customizer/settings/general.php:228
+#: inc/customizer/settings/general.php:233
+#: inc/customizer/settings/page-layout.php:164
+#: inc/customizer/settings/page-layout.php:169
+#: inc/customizer/settings/page-layout.php:209
+#: inc/customizer/settings/page-layout.php:214
+#: inc/customizer/settings/search-layout.php:164
+#: inc/customizer/settings/search-layout.php:169
+#: inc/customizer/settings/search-layout.php:209
+#: inc/customizer/settings/search-layout.php:214
+#: inc/customizer/settings/woo-product-layout.php:119
+#: inc/customizer/settings/woo-product-layout.php:124
+#: inc/customizer/settings/woo-product-layout.php:164
+#: inc/customizer/settings/woo-product-layout.php:169
+#: inc/customizer/settings/woo-shop-layout.php:150
+#: inc/customizer/settings/woo-shop-layout.php:155
+#: inc/customizer/settings/woo-shop-layout.php:195
+#: inc/customizer/settings/woo-shop-layout.php:200
+msgid "Select File"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:39
+#: inc/customizer/settings/blog-single-layout.php:39
+#: inc/customizer/settings/course-layout.php:38
+#: inc/customizer/settings/event-layout.php:38
+#: inc/customizer/settings/page-layout.php:39
+#: inc/customizer/settings/search-layout.php:39
+#: inc/customizer/settings/woo-shop-layout.php:37
+msgid "Select the default template layout for Pages"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:305 inc/customizer/settings/error.php:181
+msgid "shakeX"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:306 inc/customizer/settings/error.php:182
+msgid "shakeY"
+msgstr ""
+
+#: learnpress/single-course/sidebar.php:36
+msgid "Share This Course"
+msgstr ""
+
+#: template-parts/content-single-2.php:139
+#: template-parts/content-single.php:142 woocommerce/custom/functions.php:286
+msgid "Share:"
+msgstr ""
+
+#: inc/customizer/customizer.php:283 inc/customizer/customizer.php:394
+msgid "Shop Archive Layout"
+msgstr ""
+
+#: template-parts/content-banner.php:54
+msgid "Shop Details"
+msgstr ""
+
+#: template-parts/content-banner.php:47
+msgid "Shop Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:403
+msgid "Shop Single Layout"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:178
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer/settings/single.php:180
+msgid "Show Author Bio"
+msgstr ""
+
+#: inc/customizer/settings/single.php:82
+msgid "Show Author Name"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:206 inc/customizer/settings/event.php:48
+#: inc/customizer/settings/single.php:124
+msgid "Show Category"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:123
+msgid "Show Cloud Share Button"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:192 inc/customizer/settings/single.php:110
+msgid "Show Comment"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:134 inc/customizer/settings/blog.php:149
+msgid "Show Content"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:164 inc/customizer/settings/event.php:62
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:137
+msgid "Show Dribbble Share Button"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:179
+msgid "Show Email Share Button"
+msgstr ""
+
+#: inc/customizer/settings/event.php:118
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:39
+msgid "Show Facebook Share Button"
+msgstr ""
+
+#: inc/customizer/settings/single.php:68
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:81
+msgid "Show Linkedin Share Button"
+msgstr ""
+
+#: inc/customizer/settings/event.php:76
+msgid "Show Location"
+msgstr ""
+
+#: inc/customizer/settings/single.php:166
+msgid "Show Next / Previous post"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:95
+msgid "Show Pinterest Share Button"
+msgstr ""
+
+#: inc/customizer/settings/single.php:96
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/customizer/settings/event.php:90
+msgid "Show Price"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:193
+msgid "Show Print Share Button"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:262
+msgid "Show Read More"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:234
+msgid "Show Reading Length"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:165
+msgid "Show Reddit Share Button"
+msgstr ""
+
+#: inc/customizer/settings/event.php:158
+msgid "Show Related Event"
+msgstr ""
+
+#: inc/customizer/settings/single.php:265
+msgid "Show Related Post"
+msgstr ""
+
+#: inc/customizer/settings/single.php:295
+msgid "Show Related Post Number"
+msgstr ""
+
+#: inc/customizer/settings/single.php:311
+msgid "Show Related Post Title Length"
+msgstr ""
+
+#: inc/customizer/settings/event.php:104
+msgid "Show Search"
+msgstr ""
+
+#: inc/customizer/settings/single.php:152
+msgid "Show Share"
+msgstr ""
+
+#: inc/customizer/settings/single.php:138
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:151
+msgid "Show Tumblr Share Button"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:53
+msgid "Show Twitter Share Button"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:248
+msgid "Show Video"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:220 inc/customizer/settings/single.php:194
+msgid "Show Views"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:109
+msgid "Show Whatsapp Share Button"
+msgstr ""
+
+#: inc/customizer/settings/postshare.php:67
+msgid "Show Youtube Share Button"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:452
+#, php-format
+msgid "Showing %s-%s of %s results"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:450
+#, php-format
+msgid "Showing last course of %s results"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:441
+msgid "Showing only one result"
+msgstr ""
+
+#: inc/general.php:145 inc/helper-functions.php:565
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:38
+#: inc/customizer/settings/blog-single-layout.php:38
+#: inc/customizer/settings/course-layout.php:37
+#: inc/customizer/settings/event-layout.php:37
+#: inc/customizer/settings/page-layout.php:38
+#: inc/customizer/settings/search-layout.php:38
+#: inc/customizer/settings/woo-shop-layout.php:36
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:105
+msgid "Sign Up"
+msgstr ""
+
+#: inc/customizer/settings/header.php:525
+msgid "Sign Up Link"
+msgstr ""
+
+#: inc/customizer/settings/header.php:509
+msgid "Sign Up Text"
+msgstr ""
+
+#: inc/customizer/settings/event.php:145
+msgid "Single Event Option"
+msgstr ""
+
+#: inc/customizer/settings/single.php:42
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer/settings/general.php:35
+msgid "Site Logo"
+msgstr ""
+
+#: header.php:58
+msgid "Skip to content"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:29
+msgid "SKU:"
+msgstr ""
+
+#: inc/helper-functions.php:328 inc/customizer/settings/general.php:567
+msgid "Skype"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:319 inc/customizer/settings/error.php:195
+msgid "slideInDown"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:320 inc/customizer/settings/error.php:196
+msgid "slideInLeft"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:321 inc/customizer/settings/error.php:197
+msgid "slideInRight"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:322 inc/customizer/settings/error.php:198
+msgid "slideInUp"
+msgstr ""
+
+#: inc/general.php:63
+msgid "Small"
+msgstr ""
+
+#: inc/customizer/settings/general.php:597
+msgid "Snapchat"
+msgstr ""
+
+#: inc/customizer/settings/general.php:433
+msgid "Social Label"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:431
+msgid "Sorry! This Page Is Not Available!"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/settings/single.php:351
+msgid "Sort Order"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:471
+msgid "Sort-by:"
+msgstr ""
+
+#: template-parts/content-banner.php:37
+msgid "Speaker Details"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:24
+msgid "St"
+msgstr ""
+
+#: inc/helper-functions.php:353
+msgid "Stackoverflow"
+msgstr ""
+
+#: inc/customizer/settings/header.php:182
+msgid "Sticky Header"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:24
+msgid "Sts"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:24 learnpress/custom/course-box-4.php:24
+#: learnpress/custom/course-box.php:24
+#: learnpress/custom/instructor-tab-contents.php:33
+#: inc/customizer/settings/course.php:84
+msgid "Student"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:24 learnpress/custom/course-box-4.php:24
+#: learnpress/custom/course-box.php:24
+#: learnpress/custom/instructor-tab-contents.php:33
+#: inc/customizer/settings/course-single.php:184
+msgid "Students"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:225
+msgid "Sub Menu"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:243
+msgid "Sub Menu Font Size"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:262
+msgid "Sub Menu Line Height"
+msgstr ""
+
+#: inc/customizer/settings/color.php:196
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/customizer/settings/color.php:164
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/customizer/settings/color.php:180
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:308 inc/customizer/settings/error.php:184
+msgid "swing"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:241
+msgid "Tab Curriculum"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:286
+msgid "Tab Faqs"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:256
+msgid "Tab Instructor"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:271
+msgid "Tab Review"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:43
+msgid "Tag: "
+msgid_plural "Tags: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/settings/course-single.php:316
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content-single-2.php:136
+#: template-parts/content-single.php:139
+msgid "Tags:"
+msgstr ""
+
+#: learnpress/single-course/tabs/curriculum.php:55
+msgid "The curriculum is empty"
+msgstr ""
+
+#: inc/customizer/customizer.php:120 inc/customizer/settings/general.php:127
+msgid "Theme Control"
+msgstr ""
+
+#: inc/customizer/customizer.php:128 inc/customizer/settings/general.php:260
+msgid "Theme General"
+msgstr ""
+
+#: inc/customizer/customizer.php:112
+msgid "Theme Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:136 inc/customizer/settings/general.php:420
+msgid "Theme Social"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:439
+msgid "There are no available courses!"
+msgstr ""
+
+#: learnpress/addons/wishlist/user-wishlist.php:13
+msgid "There are no courses in the wishlist"
+msgstr ""
+
+#: learnpress/addons/course-review/course-review.php:28
+msgid "There is no review for this course"
+msgstr ""
+
+#: inc/customizer/settings/blog-layout.php:141
+#: inc/customizer/settings/blog-single-layout.php:141
+#: inc/customizer/settings/course-layout.php:128
+#: inc/customizer/settings/course-single-layout.php:96
+#: inc/customizer/settings/error-layout.php:97
+#: inc/customizer/settings/event-layout.php:140
+#: inc/customizer/settings/event-single-layout.php:97
+#: inc/customizer/settings/footer.php:169
+#: inc/customizer/settings/footer.php:236
+#: inc/customizer/settings/footer.php:303
+#: inc/customizer/settings/page-layout.php:141
+#: inc/customizer/settings/search-layout.php:141
+#: inc/customizer/settings/woo-product-layout.php:96
+#: inc/customizer/settings/woo-shop-layout.php:127
+msgid "This is banner background type."
+msgstr ""
+
+#: inc/customizer/settings/banner.php:169
+#: inc/customizer/settings/blog-layout.php:160
+#: inc/customizer/settings/blog-layout.php:205
+#: inc/customizer/settings/blog-single-layout.php:160
+#: inc/customizer/settings/blog-single-layout.php:205
+#: inc/customizer/settings/course-layout.php:147
+#: inc/customizer/settings/course-layout.php:192
+#: inc/customizer/settings/course-single-layout.php:115
+#: inc/customizer/settings/course-single-layout.php:160
+#: inc/customizer/settings/error-layout.php:116
+#: inc/customizer/settings/error-layout.php:161
+#: inc/customizer/settings/error.php:51
+#: inc/customizer/settings/event-layout.php:159
+#: inc/customizer/settings/event-layout.php:204
+#: inc/customizer/settings/event-single-layout.php:116
+#: inc/customizer/settings/event-single-layout.php:161
+#: inc/customizer/settings/footer.php:208
+#: inc/customizer/settings/footer.php:275
+#: inc/customizer/settings/footer.php:342
+#: inc/customizer/settings/footer.php:561
+#: inc/customizer/settings/general.php:49
+#: inc/customizer/settings/general.php:74
+#: inc/customizer/settings/general.php:223
+#: inc/customizer/settings/page-layout.php:160
+#: inc/customizer/settings/page-layout.php:205
+#: inc/customizer/settings/search-layout.php:160
+#: inc/customizer/settings/search-layout.php:205
+#: inc/customizer/settings/woo-product-layout.php:115
+#: inc/customizer/settings/woo-product-layout.php:160
+#: inc/customizer/settings/woo-shop-layout.php:146
+#: inc/customizer/settings/woo-shop-layout.php:191
+msgid "This is the description for the Media Control"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/single-event-variable-ticket.php:31
+msgid "Ticket Fair"
+msgstr ""
+
+#: inc/customizer/settings/single.php:236
+msgid "Time Tormat"
+msgstr ""
+
+#: inc/customizer/settings/reading-progress-bar.php:110
+msgid "Top"
+msgstr ""
+
+#: inc/general.php:174
+msgid "Top Bar - Left"
+msgstr ""
+
+#: inc/general.php:183
+msgid "Top Bar - Right"
+msgstr ""
+
+#: inc/customizer/settings/header.php:90
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/customizer/settings/header.php:141
+msgid "Top Bar Hover Color"
+msgstr ""
+
+#: inc/customizer/settings/header.php:53
+msgid "Top Bar Layout"
+msgstr ""
+
+#: inc/customizer/settings/header.php:124
+msgid "Top Bar Link Color"
+msgstr ""
+
+#: inc/customizer/settings/header.php:38
+msgid "Top Bar On/Off"
+msgstr ""
+
+#: inc/customizer/settings/header.php:107
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/variable-ticket-form-template.php:176
+msgid "Total Price"
+msgstr ""
+
+#: eventin/templates/event/purchase-form/variable-ticket-form-template.php:171
+msgid "Total Quantity"
+msgstr ""
+
+#: woocommerce/custom/functions.php:462
+msgid "Total:"
+msgstr ""
+
+#: inc/customizer/settings/header.php:196
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/customizer/settings/color.php:135
+msgid "Transparent Menu Color"
+msgstr ""
+
+#: inc/helper-functions.php:308 inc/customizer/settings/course-single.php:439
+#: inc/customizer/settings/general.php:462
+msgid "Twitter"
+msgstr ""
+
+#: header.php:74
+msgid "Type your search........"
+msgstr ""
+
+#: inc/customizer/typography/typography-customizer.php:38
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:226
+msgid "Update"
+msgstr ""
+
+#: inc/customizer/settings/woo-shop.php:35
+msgid "Use product per col default 4"
+msgstr ""
+
+#: inc/customizer/settings/header.php:331
+msgid "Vertical Menu Icon"
+msgstr ""
+
+#: woocommerce/custom/functions.php:323
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/custom/functions.php:468
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/custom/functions.php:491 woocommerce/custom/functions.php:522
+#: woocommerce/custom/functions.php:549
+msgid "View your shopping cart"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:44
+msgid "W"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:44 learnpress/custom/course-box-4.php:44
+#: learnpress/custom/course-box.php:44
+#: learnpress/custom/inc/lp-functions.php:127
+#: learnpress/custom/inc/lp-functions.php:360
+msgid "Week"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:44 learnpress/custom/course-box-4.php:44
+#: learnpress/custom/course-box.php:44
+#: learnpress/custom/inc/lp-functions.php:127
+#: learnpress/custom/inc/lp-functions.php:360
+msgid "Weeks"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:503
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/customizer/settings/woo-product.php:50
+msgid "Whishlist"
+msgstr ""
+
+#: inc/general.php:49
+msgid "white"
+msgstr ""
+
+#: inc/customizer/settings/course-single.php:393
+#: inc/customizer/settings/course.php:144
+#: inc/customizer/settings/woo-shop.php:112
+#: learnpress/custom/inc/lp-functions.php:395
+#: learnpress/custom/inc/lp-functions.php:410
+msgid "Wishlist"
+msgstr ""
+
+#: inc/customizer/settings/header.php:303
+msgid "Woo Cart Icon"
+msgstr ""
+
+#: inc/customizer/settings/header.php:317
+msgid "Woo Wishlist Icon"
+msgstr ""
+
+#: comments.php:64
+msgid "Write a Review"
+msgstr ""
+
+#: learnpress/custom/course-box-3.php:44
+msgid "Ws"
+msgstr ""
+
+#: inc/customizer/settings/header.php:54 inc/customizer/settings/header.php:228
+msgid "You can override this settings only Mobile"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:68
+msgid "You can set default footer form here."
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:354
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:303
+msgid "You May Also Like More Courses"
+msgstr ""
+
+#: learnpress/custom/wishlist-modal.php:14
+#, php-format
+msgid ""
+"You must be logged in before using WishList. To login click <a href=\"%s\">"
+"here</a>"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/custom/functions.php:387
+msgid "Your cart is empty"
+msgstr ""
+
+#: inc/views/comments-callback.php:22
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/customizer/customizer-default-data.php:306
+msgid "Your Instructors"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr ""
+
+#: learnpress/custom/course-progress.php:31
+msgid "Your Progress"
+msgstr ""
+
+#: woocommerce/custom/functions.php:316
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/custom/functions.php:327
+msgid "Your Review *"
+msgstr ""
+
+#: inc/helper-functions.php:333 inc/customizer/settings/course-single.php:455
+#: inc/customizer/settings/general.php:522
+msgid "Youtube"
+msgstr ""

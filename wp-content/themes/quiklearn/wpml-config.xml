@@ -1,0 +1,45 @@
+<wpml-config>
+    <admin-texts>
+        <key name="quiklearn">
+            <key name="sidetext_label" />
+            <key name="sidetext" />            
+            <key name="address_label" />
+            <key name="address" />
+            <key name="email_label" />
+            <key name="email" />
+            <key name="phone_label" />
+            <key name="phone" />
+            <key name="opening_label" />
+            <key name="opening" />                       
+            <key name="social_label" />
+            <key name="profile_button_text" />   
+            <key name="login_text" />
+            <key name="signup_text" />
+            <key name="copyright_text" />
+            <key name="scroll_indicator_position" />
+            <key name="blog_animation" />
+            <key name="blog_animation_effect" />
+            <key name="related_title" />
+            <key name="error_text1" />
+            <key name="error_text2" />
+            <key name="error_buttontext" />
+            <key name="overview_title" />
+            <key name="curriculum_title" />
+            <key name="curriculum_text" />
+            <key name="instructors_title" />
+            <key name="instructors_text" />
+            <key name="extra_info_title" />
+            <key name="money_back" />
+            <key name="course_related_sub_title" />
+            <key name="course_related_title" />
+        </key>
+    </admin-texts>
+	<custom-fields>
+       <custom-field action="translate">quiklearn_youtube_link</custom-field>
+       <custom-field action="translate">quiklearn_lp_language</custom-field>
+       <custom-field action="translate">quiklearn_course_style</custom-field>
+       <custom-field action="translate">quiklearn_lp_money_back</custom-field>
+       <custom-field action="translate">quiklearn_lp_curriculum_text</custom-field>
+       <custom-field action="translate">quiklearn_lp_instructors_text</custom-field>
+   </custom-fields>
+</wpml-config>

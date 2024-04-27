@@ -1,0 +1,38 @@
+.rt-button i:before,
+.btn-common i:before,
+.icon-quiklearn-right-arrow:before,
+.icon-quiklearn-left-arrow:before,
+.site-header .main-navigation ul li ul.sub-menu li > a:before {
+    transform: rotate(180deg);
+}
+.sidebar-widget-area .widget ul li a:before,
+.footer-content-area ul.menu li a::before {
+    transform: rotate(180deg);
+    padding-right: 0;
+    padding-left: 0;
+    position: absolute;
+    right: 0;
+}
+.sidebar-widget-area .widget_categories ul li a, 
+.sidebar-widget-area .widget_archive ul li a {
+    padding-right: 15px;
+}
+.sidebar-widget-area .widget ul li a:hover {
+    padding-right: 20px;
+}
+.about-author .pull-right {
+    padding-left: 25px;
+    width: 250px;
+}
+.wp-block-quote {
+    border-left: none;
+}
+.sidebar-widget-area .sidebar-service.widget_nav_menu ul li a:hover:before {
+    animation: unset;
+}
+.etn-sidebar .etn-variable-ticket-widget .qt-add {
+    right: auto;
+}
+.etn-calender-list a .calender-name {
+    margin: -4px 15px 0 0;
+}

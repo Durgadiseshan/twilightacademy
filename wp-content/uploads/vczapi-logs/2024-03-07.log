@@ -1,0 +1,12 @@
+2024-03-07T07:54:50+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Connection timed out after 10004 milliseconds
+2024-03-07T07:55:13+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Operation timed out after 10008 milliseconds with 0 out of 0 bytes received
+2024-03-07T08:05:17+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Operation timed out after 10005 milliseconds with 0 out of 0 bytes received
+2024-03-07T08:05:39+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Connection timed out after 10014 milliseconds
+2024-03-07T08:27:04+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Operation timed out after 10003 milliseconds with 0 out of 0 bytes received
+2024-03-07T08:27:14+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Connection timed out after 10009 milliseconds
+2024-03-07T08:28:28+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Operation timed out after 10001 milliseconds with 0 out of 0 bytes received
+2024-03-07T08:28:38+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Operation timed out after 10003 milliseconds with 0 out of 0 bytes received
+2024-03-07T08:31:17+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Connection timed out after 10015 milliseconds
+2024-03-07T08:31:27+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Operation timed out after 10004 milliseconds with 0 out of 0 bytes received
+2024-03-07T08:35:40+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Connection timed out after 10011 milliseconds
+2024-03-07T08:35:50+00:00 [ERROR] : http_request_failed :::  ::: MESSAGE => cURL error 28: Operation timed out after 10001 milliseconds with 0 out of 0 bytes received

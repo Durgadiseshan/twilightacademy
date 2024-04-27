@@ -1,0 +1,4 @@
+2024-03-11T05:59:39+00:00 ERROR cURL error 6: Could not resolve host: api.razorpay.com
+2024-03-11T05:59:39+00:00 ERROR cURL error 6: Could not resolve host: api.razorpay.com
+2024-03-11T07:30:59+00:00 ERROR cURL error 28: Failed to connect to api.razorpay.com port 443: Timed out
+2024-03-11T07:31:06+00:00 ERROR cURL error 28: Failed to connect to api.razorpay.com port 443: Timed out

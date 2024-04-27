@@ -1,0 +1,19 @@
+2024-03-02T04:50:07+00:00 INFO Execute one_cc_plugin_sync_cron successful
+2024-03-02T04:50:08+00:00 ERROR 
+2024-03-02T05:23:31+00:00 INFO Called process_payment with params order_id 6229
+2024-03-02T05:23:31+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 6229
+2024-03-02T05:23:33+00:00 INFO getRazorpayPaymentParams 6229
+2024-03-02T05:23:33+00:00 INFO createOrGetRazorpayOrderId 6229 and is1ccCheckout is set to no
+2024-03-02T05:23:33+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 6229 and is_magic_checkout_order is set to no
+2024-03-02T05:23:33+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id6229
+2024-03-02T05:23:33+00:00 INFO Called createRazorpayOrderId with params orderId 6229 and sessionKey razorpay_order_id6229
+2024-03-02T05:23:33+00:00 INFO Called getOrderCreationData with params orderId 6229
+2024-03-02T05:23:33+00:00 INFO Called getOrderCreationData with params orderId 6229 and is1ccOrder is set to no
+2024-03-02T05:23:33+00:00 INFO For order 6229
+2024-03-02T05:23:33+00:00 INFO {"receipt":"6229","amount":9000000,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_number":"6229"}}
+2024-03-02T05:23:34+00:00 ERROR Could not enable webhook for localhost
+2024-03-02T05:23:34+00:00 INFO For order session key razorpay_order_id6229
+2024-03-02T12:07:33+00:00 ERROR cURL error 35: OpenSSL SSL_connect: Connection was reset in connection to api.razorpay.com:443 
+2024-03-02T12:07:38+00:00 ERROR cURL error 7: Failed to connect to api.razorpay.com port 443: Connection refused
+2024-03-02T12:07:51+00:00 ERROR cURL error 28: Operation timed out after 10011 milliseconds with 0 out of 0 bytes received
+2024-03-02T12:08:02+00:00 ERROR cURL error 28: Operation timed out after 10008 milliseconds with 0 out of 0 bytes received
